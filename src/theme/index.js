@@ -59,8 +59,8 @@ export default {
 		"headline1": "normal 900 72px/1.2 --fontFamily-sans",
 		"headline2": "normal 900 42px/1.2 --fontFamily-sans",
 		"headline3": "normal 500 28px/1.2 --fontFamily-sans",
-		"base": "normal 300 16px/1.5 --fontFamily-sans",
-		"lead": "normal 300 20px/1.5 --fontFamily-sans"
+		"base": "normal 400 16px/1.5 --fontFamily-sans",
+		"lead": "normal 400 20px/1.5 --fontFamily-sans"
 	},
 	"boxShadow": {
 		"m": "0 4px 5px -1px rgba(0, 0, 0, 0.1)",
@@ -158,5 +158,5 @@ export default {
 		}
 	},
 	"fonts": {},
-	"version": 1
+	"version": 3
 }
